@@ -4,7 +4,7 @@ Chef Solo config for management servers with Ruby/Rack based applications
 
 ## Tutorial
 
-Using Chef and Capistrano to deploy a Rails application on Ubuntu 16.04
+Using Chef setup server for rails on Ubuntu 16.04
 
 ## Stack
 * Ubuntu 16.04
@@ -26,10 +26,13 @@ cp nodes/machine.ip.json nodes/my_new_node.json
 
 Insert machine IP into next files:
 
+```bash
 site-cookbooks/chef-nginx/templates/project.conf.erb
+```
 
+```bash
 nodes/my_new_node.json
-
+```
 
 Replace passwords into base (roles/base.json and data_bags/users/deployer.json) and run:
 
