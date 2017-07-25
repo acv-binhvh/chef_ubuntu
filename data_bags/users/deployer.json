@@ -2,9 +2,7 @@
   "id": "deployer",
   "password": "$1$rB4gn6E8$7V4WSAxc5TnBW210tarSX.",
   "ssh_keys": [
-    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQChfwpDY0RcWoPhAscWXQ1V3MltOa06yVU1sS4Zk+HDFujvcKIXj7sa/hivt0kzS1z8ROxQ5i4yW6O6H2AZKmbZF7dTD2xre+qfjVJyAHKhuyKr4iVPsZwkIBYmgQkhRIFq4XFB1zODqrIgUXJisd3jnFbJUn5UWh/8cXP3gOnMgJykZ46ZP3eD0/hc2h3NYMc76BpQkMo1xIDZfrzAkmlDbO8OZeUHpRlzV4ms//k8kuOnjMW6s6v0X9BbNGsbwF+XXPGjKkqMIOvLwce9CNr1ljHu9IV+UbYz746IaHfwde2SM+tq5hAEBzRbF64W2U4PMQ+1k5yFpVLGVC+A5B0b82Sp2yOWYqzJ99Kk8rF34/Ij8ctSZvHmbl9NDWe7U62QJCFFDdp/sJPmaxjk5tzGznMHEaQ2G5R6wUGRct+dl3PP+lC/ccxyl4KatLHD1ElJ/uM/5wJ9jBUDW5i/61lgQvl0acI1iOXwmU/DdTioEq9ao+luH52Ke7MFC7b4doTu8MwdQfy4FauGUAN/r8UhYKoT2uCTpcaN6jh8jLUWPFfZW42ayJwMmgujc3SAGmy8OWrTMtiCckSczAmvAvDLoAlzwtOysqnYZC/E4cf3FCUeJIBIMirZrVPFt9WaoTtw6OtMJEwxy10YtTe4ZyF27b8KOxX1g05ASo8vYKUelw== binhvh@atmarkcafe.org",
-    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCz6yvBarmmGiqbqr/jNq/QmYpUspn91tUC89DQzS12v50RN7b4WKqSxy3p+X2mpcxX8NgqCmlbH082d9onkKPdVtW3nK3ynaGf+TEDQOTpzdmmYxw4uZ8tToWoJsyduw4eu3/+dcS+3JEHSBSaCzRfyQ5fc4tRf/vAL5Uya6R7ZThGMUu/8ZTgOBo1jTPb0ZtKFkOqlYSqpV9js1j3WWizJEclYSprTkGsw8wVZgqi2aicy3P4c9h1Ms3Ptup/YeKv7HcVN3Gux7s3dqQS+ZVnTyoz1niU6pAUpRGSi/Cb8v69NFakzdMLrwgNFAs7s/JSaorqb+hD/ZGZbHP9ZCN1 Quykey",
-    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7uyY5vYwRXFGATgZbbm4pdF+tDxt49kXIZXDjD5SUctPcAPvA4ycSfBurXMC7K7SP35K3EVZLnfaNuC8TtW+XWO4RaaTSoHoL9T+/68gxrEaQs0WTnOM06UgIGB8nEZPeRK6yupfXGU3fxuVLjKqUaG4n1hFcLs5y4lStE0jJ6aJm0Lnp2zTD/6I+WX4+aaq0Fa4+E3ij1M1FvnCBXczj8C/a55zMHWgh2a2qNVIEt0YsBwtn9vXHJ/203GK6XuEUqDrf/3JsD6rTJXBcXjpBGaQhzMGZj78D0Azzr1pdxq7sX+1k2VyWEX7YmVqAlbj3jzXGGsa0azroVAiz0kPh help-brian"
+    "ssh-rsa"
   ],
   "groups": ["www-data", "sudo", "rvm", "sysadmin"],
   "shell": "\/bin\/bash"
